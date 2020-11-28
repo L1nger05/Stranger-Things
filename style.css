@@ -1,0 +1,36 @@
+.header{
+	height: 92px; width: 1468px; background-color: black;
+}
+.header-d-flex{
+	display: flex;
+}
+.in-header-short-1{
+	height: 73px; width: 184px; background-color: black; margin-left: 28px; margin-top: 9px;
+}
+.in-header-long{
+    height: 73px; width: 917px; background-color: black; margin-left: 63px; margin-top: 9px;
+}
+.in-header-short-2{
+	height: 73px; width: 184px; background-color: black; margin-left: 63px; margin-top: 9px;
+}
+.center{
+	height: 200px; width: 1404px; background-color: black; margin-top: 50px; margin-left: 30px;
+}
+.center-d-flex{
+	display: flex;
+}
+.in-center{
+	height: 140px; width: 280px; background-color: black; margin-top: 25px; margin-left: 57px;
+}
+.st-d-flex{
+	display: flex;
+}
+.soundtracks-1{
+	height: 302px; width: 367px; background-color: black; margin-left: 10px; margin-top: 23px;
+}
+.soundtrack-box{
+	height: 380px; width: 1440px; background-color: black; margin-top: 50px; margin-left: 5px;
+}
+.soundtracks-2{
+	height: 302px; width: 367px; background-color: black; margin-left: 60px; margin-top: 23px;
+}
